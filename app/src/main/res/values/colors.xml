@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="bgInput">#FFFFFF</color>
+    <color name="bgButton">#60E64B</color>
+    <color name="bgLogin">#00a8ff</color>
+    <color name="bgLogOut">#FF3A3A</color>
+    <color name="bgSent">#a8e6cf</color>
+    <color name="bgReceived">#dcedc1</color>
+    <color name="outlineInput">#979797</color>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "834964460942",
+    "firebase_url": "https://kiwari-test-52599.firebaseio.com",
+    "project_id": "kiwari-test-52599",
+    "storage_bucket": "kiwari-test-52599.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834964460942:android:2ea8395e1e17106040c0df",
+        "android_client_info": {
+          "package_name": "com.hanifkf12.kiwari_androidtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834964460942-9sl9gf3jf3qajd3ne51beerlati7tu5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanifkf12.kiwari_androidtest",
+            "certificate_hash": "6dbf417a7e76ff42bb5123caf2a50a34c760659e"
+          }
+        },
+        {
+          "client_id": "834964460942-i3h38j6l4gagf4at7rls44bknus2pks6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfujPq3uE99Tj0uIRE-DVEWILtDRXrhew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834964460942-i3h38j6l4gagf4at7rls44bknus2pks6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
