@@ -8,7 +8,7 @@ import com.hanifkf12.kiwari_androidtest.repository.UserRepository
 
 class ChatListViewModel : ViewModel() {
 
-    private val _user : MutableLiveData<List<User>> = MutableLiveData<List<User>>()
+    private val _user : MutableLiveData<List<User>> = MutableLiveData()
     val user : LiveData<List<User>> = _user
     private var repository: UserRepository = UserRepository()
 

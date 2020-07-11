@@ -29,7 +29,7 @@ class ChatRepository {
     }
 
     fun storeChat(chat: Chat){
-        val chatMap = hashMapOf<String, Any>("username" to chat.username!! , "content" to chat.content!!, "timestamps" to FieldValue.serverTimestamp())
+        val chatMap = hashMapOf("username" to chat.username!! , "content" to chat.content!!, "timestamps" to FieldValue.serverTimestamp())
         FirebaseUtil.provideFireStore().collection("chatRooms").document("room01")
             .collection("messages")
             .add(chatMap)
